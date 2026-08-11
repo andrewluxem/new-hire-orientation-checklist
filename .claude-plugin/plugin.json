@@ -1,0 +1,17 @@
+{
+  "name": "new-hire-orientation-checklist",
+  "version": "1.0.0",
+  "description": "Coordinates pre-start, day-one, first-week, and follow-up obligations with owners and evidence. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/new-hire-orientation-checklist",
+  "repository": "https://github.com/andrewluxem/new-hire-orientation-checklist",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "onboarding-checklist",
+    "new-hire-orientation"
+  ]
+}
