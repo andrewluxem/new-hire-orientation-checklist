@@ -1,0 +1,23 @@
+{
+  "name": "new-hire-orientation-checklist",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Andrew Luxem"
+  },
+  "description": "Coordinates pre-start, day-one, first-week, and follow-up obligations with owners and evidence. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "plugins": [
+    {
+      "name": "new-hire-orientation-checklist",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Coordinates pre-start, day-one, first-week, and follow-up obligations with owners and evidence. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+      "category": "productivity",
+      "tags": [
+        "agent-skills",
+        "claude-code",
+        "onboarding-checklist",
+        "new-hire-orientation"
+      ]
+    }
+  ]
+}
